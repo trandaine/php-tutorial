@@ -17,6 +17,12 @@ while ($i<10) {         //Dieu kien lap
     }
     
 }
+
+//die();          //Ket thuc chuong trinh
+//exit();           //Ket thuc chuong trinh
+
+
+
 echo "Vong Lap Do While <br>";            //Xuong dong
 //Do while loop
 //Vong lap do while se thuc hien lap di lap lai mot doan code cho den khi dieu kien lap khong con dung nua
@@ -33,6 +39,10 @@ do {
         $a++;           //Buoc nhay
     }
 } while ($a<10);        //Dieu kien lap
+
+
+
+
 
 
 // Do while loop example with the exact loop condition
