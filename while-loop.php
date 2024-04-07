@@ -18,6 +18,7 @@ while ($i<10) {         //Dieu kien lap
     
 }
 
+
 //die();          //Ket thuc chuong trinh
 //exit();           //Ket thuc chuong trinh
 
