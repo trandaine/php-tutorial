@@ -5,6 +5,7 @@
 //Vong lap while se kiem tra dieu kien lap truoc khi thuc hien lap
 //May co the bi treo trong khi thuc hien vong lap neu khong co diem dung
 //Vi du: Lap tu 0 den 9
+echo "Vong Lap While <br>";            //Xuong dong
 $i = 0;         //Gia tri khoi tao
 while ($i<10) {         //Dieu kien lap
     if ($i==9) {        //Neu gia tri cua bien $i bang 9
@@ -44,3 +45,7 @@ do{        //Dieu kien lap
 } while ($j<10);        //Dieu kien lap
 echo "Ta thay voi bien bang 10 thi vong lap do while se in ra truoc roi kiem tra dieu kien vong lap <br>";
 echo "Sau do khong in ra gi ca <br>";            //Xuong dong
+
+// Luu y khi dung vong lap do while va for:
+// Neu biet truoc so lan lap thi dung for
+// Neu khong biet truoc so lan lap thi dung do while hoac while loop
